@@ -3,6 +3,10 @@ A Python project for mapping ideal and test data with precise visualizations. ğŸ
 Here's a **README** file content template based on your project setup and code structure. This README describes each component, its purpose, dependencies, and how to use it.
 
 ---
+https://github.com/user-attachments/assets/4f15db29-4156-4094-9421-932e14192e49
+
+![image](https://github.com/user-attachments/assets/af88fb85-2536-407d-bd73-1ab8ee2048c1)
+![image](https://github.com/user-attachments/assets/55fb19e1-eea4-4692-b6df-7d7e5dd0aeb0)
 
 
 ## Project Structure ğŸ“
