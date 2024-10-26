@@ -1,12 +1,9 @@
-# DataFit---Perfectly-Matching-Ideal-Functions-with-Real-Data-
+# DataFit Perfectly-Matching Ideal Functions with Real-Data 
 A Python project for mapping ideal and test data with precise visualizations. 🚀📊 Ideal for data fitting, analysis, and visualization. Built with 💻 Python, 📉 Plotly, and 📁 CSV data handling!
 Here's a **README** file content template based on your project setup and code structure. This README describes each component, its purpose, dependencies, and how to use it.
 
 ---
 
-# Data Visualization and Mapping Project 📊📈
-
-This project is designed to visualize training data, ideal functions, and test data points, identifying the best ideal functions that fit the training data using Python. We also plot the results with the Bokeh library for interactive data exploration.
 
 ## Project Structure 📁
 
